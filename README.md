@@ -32,6 +32,12 @@
   ![](https://i.postimg.cc/0jcBbDrR/image.png)
 
 #### 5. Login ke portal.ichimarumaru.tech kemudian ikuti perintahnya! Username dan password bisa didapat dari query insert pada table users dari file .pcap!
+- Masukkan filter `mysql` untuk memfilter query-query mysql
+
+![](https://i.postimg.cc/J7HxGzKk/image.png)
+
+didapatkan username berupa `akakanomi` dan password `pemnbelah4lautan`
+
 
 
 #### 6. Cari username dan password ketika melakukan login ke FTP Server!
@@ -93,5 +99,9 @@
 #### 12. Filter sehingga wireshark hanya mengambil paket yang mengandung port 21!
 #### 13. Filter sehingga wireshark hanya menampilkan paket yang menuju port 443!
 #### 14. Filter sehingga wireshark hanya mengambil paket yang tujuannya ke kemenag.go.id!
+- Gunakan command `dst host kemenag.go.id`
+
+![](https://i.postimg.cc/C529CPXs/image.png)
+
 #### 15. Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
 
