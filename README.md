@@ -98,14 +98,26 @@ didapatkan username berupa `akakanomi` dan password `pemnbelah4lautan`
 #### 11. Filter sehingga wireshark hanya mengambil paket yang berasal dari port 80! 
 - Gunakan command `src port 80`
 
-![] 
+![image](https://user-images.githubusercontent.com/63457105/134775151-6e1d93e3-e908-42cc-bd21-75fb9dd810b2.png)
 
 #### 12. Filter sehingga wireshark hanya mengambil paket yang mengandung port 21!
+-Gunakan command `port 21`
+
+![image](https://user-images.githubusercontent.com/63457105/134775168-b46e4e24-1afd-4724-9770-4b42caeb66c2.png)
+
 #### 13. Filter sehingga wireshark hanya menampilkan paket yang menuju port 443!
+- Gunakan command `dst port 443`
+
+![image](https://user-images.githubusercontent.com/63457105/134775188-c4d2d0d7-64d4-4cec-9602-20eca5a6cdcb.png)
+
 #### 14. Filter sehingga wireshark hanya mengambil paket yang tujuannya ke kemenag.go.id!
 - Gunakan command `dst host kemenag.go.id`
 
 ![](https://i.postimg.cc/C529CPXs/image.png)
 
 #### 15. Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
+- Gunakan command ipconfig pada command prompt untuk mendapatkan ip, lalu gunakan command `ip src 192.168.2.171`
+
+![image](https://user-images.githubusercontent.com/63457105/134775252-f3ee12f8-8904-42ab-abe9-ef341fa2dbe2.png)
+
 
