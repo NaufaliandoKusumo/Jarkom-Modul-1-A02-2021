@@ -96,6 +96,10 @@ didapatkan username berupa `akakanomi` dan password `pemnbelah4lautan`
 ![](https://i.postimg.cc/259p1dZd/image.png)
 
 #### 11. Filter sehingga wireshark hanya mengambil paket yang berasal dari port 80! 
+- Gunakan command `src port 80`
+
+![] 
+
 #### 12. Filter sehingga wireshark hanya mengambil paket yang mengandung port 21!
 #### 13. Filter sehingga wireshark hanya menampilkan paket yang menuju port 443!
 #### 14. Filter sehingga wireshark hanya mengambil paket yang tujuannya ke kemenag.go.id!
