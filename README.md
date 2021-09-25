@@ -120,4 +120,5 @@ didapatkan username berupa `akakanomi` dan password `pemnbelah4lautan`
 
 ![image](https://user-images.githubusercontent.com/63457105/134775252-f3ee12f8-8904-42ab-abe9-ef341fa2dbe2.png)
 
-
+## Kendala
+- Waktu praktikkum agak pendek
